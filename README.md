@@ -17,7 +17,7 @@ A simple text editor Progressive Web Application (PWA) that allows users to crea
 
 ## Live Demo
 
-[Text Editor PWA on Heroku](https://text-editor-pwa.herokuapp.com/)
+[Text Editor PWA on Heroku](https://note-taker-ishaval.herokuapp.com/)
 
 ## Getting Started
 
